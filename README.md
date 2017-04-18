@@ -3,7 +3,7 @@ etcetera
 
 .Net client for [etcd](https://github.com/coreos/etcd) - a highly-available key value store for shared configuration and service discovery.
 
-#Getting started
+# Getting started
 
 ## Initialize
 
